@@ -6,7 +6,7 @@ type Props = {
 export const NextDays = ({list}:Props) => {
 
     return(
-        <section className="flex justify-around lg:text-2xl lg:max-w-[80%] mx-auto">
+        <section className="flex flex-wrap justify-around lg:text-2xl lg:max-w-[80%] mx-auto">
         {list.map((day, index) => (
             <div key={index} className="flex flex-col gap-3 items-center">
                 <div className="w-14 h-14">
