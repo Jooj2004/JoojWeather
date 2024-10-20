@@ -1,6 +1,6 @@
 # JoojWeather
 
-![Logo do JoojWeather](public/images/LOGO.png)
+<img src="public/images/LOGO.png" alt="Logo do JoojWeather" width="200" height="200" />
 ## Descrição
 
 JoojWeather é um projeto que fornece informações meteorológicas em tempo real, permitindo que os usuários consultem o clima atual, previsões e dados históricos de diversas localidades.
