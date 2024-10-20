@@ -28,7 +28,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/joojweather.git
+   git clone https://github.com/Jooj2004/joojweather.git
 Navegue até o diretório do projeto:
 
 bash
@@ -56,6 +56,10 @@ Envie sua branch (git push origin feature/nova-feature).
 Abra um pull request.
 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Créditos: 
+   https://www.flaticon.com/free-icon/loading_3305803
+   https://www.flaticon.com/free-icon/clouds_1779754
+   Mais imegens em: https://www.flaticon.com/br/
 
 Contato
-Jooj - seu-email@exemplo.com
+Josdegar Ferraira - josdegarfs@gmail.com
