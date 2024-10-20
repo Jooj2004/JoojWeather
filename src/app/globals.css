@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.open_menu {
+    width: 224px;
+    transition: 0.4s ease;
+}
+
+.open_menu li{
+    display: block;
+}
+
+.close_menu{
+    width: 0px;
+    transition: 0.3s ease;
+}
